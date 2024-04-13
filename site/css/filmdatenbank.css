@@ -1,0 +1,66 @@
+table,
+th,
+td {
+    border: 1px solid;
+}
+
+.movie-table {
+    width: 100%;
+}
+
+
+
+.nav-container {
+    background-color: #0080ff;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 2em;
+}
+
+.movie-container {
+    margin-top: 3rem;
+    font-size: 1.5rem;
+}
+
+.navbar p {
+    font-size: 2em;
+}
+
+input {
+    display: block;
+}
+
+#buttonID {
+    margin-top: 0.5em;
+}
+
+#sessionDeleteButtonID {
+    margin-top: 0.5em;
+}
+
+label {
+    display: block;
+}
+
+fieldset {
+    margin-top: 2rem;
+}
+
+tr button {
+    background-color: #0080ff;
+    width: 100%;
+}
+
+table {
+    font-size: 0.8em;
+}
+
+form button {
+    background-color: #0080ff;
+
+}
+
+form p {
+
+    font-size: 0.8em;
+}
